@@ -51,6 +51,6 @@ const main = () => {
   printArray(array, 10);
   quickSort(array, 0, 9);
   printArray(array, 10);
-}
+};
 
 main();
